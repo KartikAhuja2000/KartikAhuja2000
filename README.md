@@ -18,7 +18,7 @@ Infra Managed Service Analyst at Accenture with a strong background in supportin
 4. ITIL 4 Certified
 
 - Projects
-1. PowerBi - HR Analytics Dashboard, Vrinda Store Data Analysis, SN Corp Dashboard
+1. PowerBi - HR Analytics Dashboard, Vrinda Store Data Analysis, SN Corp Dashboard, Excel-Sales_Analytics.
 
 
 - Contact
